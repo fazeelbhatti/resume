@@ -2,6 +2,7 @@ import React from 'react';
 import ImgTelenor from '../../../images/telenor.jpeg';
 import ImgHuawei from '../../../images/Huawei.jpeg';
 import ImgHorizon from '../../../images/horizon.png';
+import ImgDTC from '../../../images/dtc.png';
 
 export default function Experiences() {
   return (
@@ -15,9 +16,11 @@ export default function Experiences() {
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
                 Dec
-                <strong>2020</strong> - Sep
-                <strong>2021</strong>
+                <strong> 2020</strong> - Sep
+                <strong> 2021</strong>
               </p>
+              <p><strong>Delta Technology Consulting</strong></p>
+              <img className='center' src={ImgDTC} alt='DTCPAK' />
             </div>
             <div className="col xl8 l8 m6 s12">
               <blockquote className="no-pad">

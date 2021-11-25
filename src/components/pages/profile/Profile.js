@@ -1,13 +1,13 @@
 import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
-import ImgProfile from '../../../images/person1.jpg';
+import ImgProfile from '../../../images/person1.png';
 
 export default function Profile() {
 	return (
 		<div>
 			<div className='card'>
 				<div className='card-image'>
-					<img className='activator' src={ImgProfile} alt='John Doe' />
+					<img className='activator' src={ImgProfile} alt='Fazeel Nadeem Bhatti' />
 					<Link className='btn-floating halfway-fab waves-effect waves-light red'>
 						<i className='material-icons activator'>more_vert</i>
 					</Link>
