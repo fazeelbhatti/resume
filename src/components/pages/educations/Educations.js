@@ -19,35 +19,8 @@ export default function Educations() {
 						</thead>
 						<tbody>
 							<tr>
-								<td>Web Development</td>
-								<td>Jan 2018</td>
-								<td>
-									<Link to='/details' class='btn blue lighten-2'>
-										View
-									</Link>
-								</td>
-							</tr>
-							<tr>
-								<td>Graphic Design</td>
-								<td>May 2018</td>
-								<td>
-									<Link to='/details' class='btn blue lighten-2'>
-										View
-									</Link>
-								</td>
-							</tr>
-							<tr>
-								<td>Tech Gadgets</td>
-								<td>June 2018</td>
-								<td>
-									<Link to='/details' class='btn blue lighten-2'>
-										View
-									</Link>
-								</td>
-							</tr>
-							<tr>
-								<td>Other</td>
-								<td>Dec 2018</td>
+								<td>BS(CS)</td>
+								<td>2012-2016</td>
 								<td>
 									<Link to='/details' class='btn blue lighten-2'>
 										View
