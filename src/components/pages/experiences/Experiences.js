@@ -3,6 +3,7 @@ import ImgTelenor from '../../../images/telenor.jpeg';
 import ImgHuawei from '../../../images/Huawei.jpeg';
 import ImgHorizon from '../../../images/horizon.png';
 import ImgDTC from '../../../images/dtc.png';
+import ImgUpstart from '../../../images/upstart.png';
 
 export default function Experiences() {
   return (
@@ -12,6 +13,29 @@ export default function Experiences() {
           <h6>
             <strong>EXPERIENCE</strong>
           </h6>
+          <div className="row mt-top">
+            <div className="col xl4 l4 m6 s12">
+              <p className="teal year_exp white-text">
+                Jul
+                <strong> 2022</strong> - 
+                <strong> Present</strong>
+              </p>
+              <p><strong>Upstart Commerce</strong></p>
+              <img className='center' src={ImgUpstart} alt='Upstart Commerce' />
+            </div>
+            <div className="col xl8 l8 m6 s12">
+              <blockquote className="no-pad">
+                <h6 className="no-pad mt-bottom">
+                  <strong>Team Lead: Data & ML</strong>
+                </h6>
+                <p>
+                Skills: AI Solutions · Problem Solving · Analytical Skills · Communication · Data Pipelines · 
+                Microservices · Pattern Recognition · Google Cloud Platform (GCP) · Digital Product Development · 
+                Data Engineering · Data Analysis · Data Science · Pandas (Software) · Apache Kafka
+                </p>
+              </blockquote>
+            </div>
+          </div>
           <div className="row mt-top">
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
