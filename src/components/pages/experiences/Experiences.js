@@ -30,7 +30,7 @@ export default function Experiences() {
                 </h6>
                 <p>
                 Skills: AI Solutions · Problem Solving · Analytical Skills · Communication · Data Pipelines · 
-                Microservices · Pattern Recognition · Google Cloud Platform (GCP) · Digital Product Development · 
+                Microservices · Pattern Recognition · Google Cloud Platform (GCP)· VertexAI · Digital Product Development · 
                 Data Engineering · Data Analysis · Data Science · Pandas (Software) · Apache Kafka
                 </p>
               </blockquote>
