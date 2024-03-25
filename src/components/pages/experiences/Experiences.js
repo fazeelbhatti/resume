@@ -14,14 +14,16 @@ export default function Experiences() {
             <strong>EXPERIENCE</strong>
           </h6>
           <div className="row mt-top">
-            <div className="col xl4 l4 m6 s12">
+            <div className="col xl4 l4 m6 s12" >
               <p className="teal year_exp white-text">
                 Jul
                 <strong> 2022</strong> - 
                 <strong> Present</strong>
               </p>
               <p><strong>Upstart Commerce</strong></p>
-              <img className='center' src={ImgUpstart} alt='Upstart Commerce' />
+              <div style={{ backgroundColor: '#666666', padding: '10px' }}>
+              <img className='center' src={ImgUpstart} alt='Upstart Commerce' style={{ width: '100%', height: 'auto', opacity: 1 }}/>
+              </div>
             </div>
             <div className="col xl8 l8 m6 s12">
               <blockquote className="no-pad">
